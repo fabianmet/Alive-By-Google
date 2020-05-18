@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "dickynovanto1103",
+      "name": "Dicky Novanto",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22437392?v=4",
+      "profile": "https://github.com/dickynovanto1103",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fabianmet",
+      "name": "fabianmet",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4489146?v=4",
+      "profile": "https://github.com/fabianmet",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Alive-By-Google",
+  "projectOwner": "wiardvanrij",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
